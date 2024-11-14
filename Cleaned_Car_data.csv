@@ -457,7 +457,7 @@
 455,Maruti Suzuki Dzire,Maruti,2017,488000,80000,Diesel
 456,Tata Sumo Gold,Tata,2014,250000,99000,Diesel
 457,Toyota Corolla Altis,Toyota,2010,220000,58000,Petrol
-458,Maruti Suzuki Eeco,Maruti,2013,290000,70000,LPG
+458,Maruti Suzuki Eeco,Maruti,2013,290000,70000,Diesel
 459,Toyota Fortuner 3.0,Toyota,2015,1525000,120000,Diesel
 460,Mahindra XUV500 W6,Mahindra,2013,548900,49800,Diesel
 461,Tata Tigor Revotron,Tata,2019,650000,100,Diesel
@@ -584,7 +584,7 @@
 582,Tata Venture EX,Tata,2013,100000,30000,Diesel
 583,Maruti Suzuki Swift,Maruti,2014,315000,44000,Petrol
 584,Skoda Octavia Classic,Skoda,2006,114990,65000,Diesel
-585,Maruti Suzuki Omni,Maruti,2012,120000,160000,LPG
+585,Maruti Suzuki Omni,Maruti,2012,120000,160000,Diesel
 586,Chevrolet Beat Diesel,Chevrolet,2011,125000,56000,Diesel
 587,Tata Sumo Gold,Tata,2012,210000,75000,Diesel
 588,Hyundai Verna 1.6,Hyundai,2018,855000,42000,Diesel
@@ -1273,7 +1273,7 @@
 1271,Maruti Suzuki Dzire,Maruti,2017,344999,80000,Diesel
 1272,Tata Sumo Gold,Tata,2014,344999,99000,Diesel
 1273,Toyota Corolla Altis,Toyota,2010,344999,58000,Petrol
-1274,Maruti Suzuki Eeco,Maruti,2013,345000,70000,LPG
+1274,Maruti Suzuki Eeco,Maruti,2013,345000,70000,Diesel
 1275,Toyota Fortuner 3.0,Toyota,2015,345000,120000,Diesel
 1276,Mahindra XUV500 W6,Mahindra,2013,349999,49800,Diesel
 1277,Tata Tigor Revotron,Tata,2019,349999,100,Diesel
@@ -1400,7 +1400,7 @@
 1398,Tata Venture EX,Tata,2013,450000,30000,Diesel
 1399,Maruti Suzuki Swift,Maruti,2014,450000,44000,Petrol
 1400,Skoda Octavia Classic,Skoda,2006,450000,65000,Diesel
-1401,Maruti Suzuki Omni,Maruti,2012,450000,160000,LPG
+1401,Maruti Suzuki Omni,Maruti,2012,450000,160000,Diesel
 1402,Chevrolet Beat Diesel,Chevrolet,2011,450000,56000,Diesel
 1403,Tata Sumo Gold,Tata,2012,450000,75000,Diesel
 1404,Hyundai Verna 1.6,Hyundai,2018,465000,42000,Diesel
@@ -2087,7 +2087,7 @@
 2085,Maruti Suzuki Dzire,Maruti,2011,350000,80000,Diesel
 2086,Tata Sumo Gold,Tata,2011,175000,99000,Diesel
 2087,Toyota Corolla Altis,Toyota,2011,125000,58000,Petrol
-2088,Maruti Suzuki Eeco,Maruti,2011,255000,70000,LPG
+2088,Maruti Suzuki Eeco,Maruti,2011,255000,70000,Diesel
 2089,Toyota Fortuner 3.0,Toyota,2011,750000,120000,Diesel
 2090,Mahindra XUV500 W6,Mahindra,2011,230000,49800,Diesel
 2091,Tata Tigor Revotron,Tata,2011,365000,100,Diesel
@@ -2214,7 +2214,7 @@
 2212,Tata Venture EX,Tata,2012,165000,30000,Diesel
 2213,Maruti Suzuki Swift,Maruti,2012,560000,44000,Petrol
 2214,Skoda Octavia Classic,Skoda,2012,235000,65000,Diesel
-2215,Maruti Suzuki Omni,Maruti,2012,220000,160000,LPG
+2215,Maruti Suzuki Omni,Maruti,2012,220000,160000,Diesel
 2216,Chevrolet Beat Diesel,Chevrolet,2012,250000,56000,Diesel
 2217,Tata Sumo Gold,Tata,2012,480000,75000,Diesel
 2218,Hyundai Verna 1.6,Hyundai,2012,350000,42000,Diesel
@@ -2903,7 +2903,7 @@
 2901,Maruti Suzuki Dzire,Maruti,2015,599999,80000,Diesel
 2902,Tata Sumo Gold,Tata,2015,600000,99000,Diesel
 2903,Toyota Corolla Altis,Toyota,2015,600000,58000,Petrol
-2904,Maruti Suzuki Eeco,Maruti,2015,600000,70000,LPG
+2904,Maruti Suzuki Eeco,Maruti,2015,600000,70000,Diesel
 2905,Toyota Fortuner 3.0,Toyota,2015,689999,120000,Diesel
 2906,Mahindra XUV500 W6,Mahindra,2015,699000,49800,Diesel
 2907,Tata Tigor Revotron,Tata,2015,750000,100,Diesel
@@ -3030,7 +3030,7 @@
 3028,Tata Venture EX,Tata,2016,372000,30000,Diesel
 3029,Maruti Suzuki Swift,Maruti,2016,375000,44000,Petrol
 3030,Skoda Octavia Classic,Skoda,2016,375000,65000,Diesel
-3031,Maruti Suzuki Omni,Maruti,2016,385000,160000,LPG
+3031,Maruti Suzuki Omni,Maruti,2016,385000,160000,Diesel
 3032,Chevrolet Beat Diesel,Chevrolet,2016,401919,56000,Diesel
 3033,Tata Sumo Gold,Tata,2016,425000,75000,Diesel
 3034,Hyundai Verna 1.6,Hyundai,2016,425000,42000,Diesel
@@ -3717,7 +3717,7 @@
 3715,Maruti Suzuki Dzire,Maruti,2017,650000,47000,Diesel
 3716,Tata Sumo Gold,Tata,2014,650000,50000,Diesel
 3717,Toyota Corolla Altis,Toyota,2010,650000,55000,Petrol
-3718,Maruti Suzuki Eeco,Maruti,2013,650000,55000,LPG
+3718,Maruti Suzuki Eeco,Maruti,2013,650000,55000,Diesel
 3719,Toyota Fortuner 3.0,Toyota,2015,650000,62000,Diesel
 3720,Mahindra XUV500 W6,Mahindra,2013,650000,70000,Diesel
 3721,Tata Tigor Revotron,Tata,2019,650000,75000,Diesel
@@ -3844,7 +3844,7 @@
 3842,Tata Venture EX,Tata,2013,574999,68000,Diesel
 3843,Maruti Suzuki Swift,Maruti,2014,574999,170000,Petrol
 3844,Skoda Octavia Classic,Skoda,2006,570000,3600,Diesel
-3845,Maruti Suzuki Omni,Maruti,2012,570000,19000,LPG
+3845,Maruti Suzuki Omni,Maruti,2012,570000,19000,Diesel
 3846,Chevrolet Beat Diesel,Chevrolet,2011,570000,37518,Diesel
 3847,Tata Sumo Gold,Tata,2012,570000,100000,Diesel
 3848,Hyundai Verna 1.6,Hyundai,2018,569999,13500,Diesel
@@ -4533,7 +4533,7 @@
 4531,Maruti Suzuki Dzire,Maruti,2017,375000,55000,Diesel
 4532,Tata Sumo Gold,Tata,2014,375000,55800,Diesel
 4533,Toyota Corolla Altis,Toyota,2010,375000,65000,Petrol
-4534,Maruti Suzuki Eeco,Maruti,2013,375000,65000,LPG
+4534,Maruti Suzuki Eeco,Maruti,2013,375000,65000,Diesel
 4535,Toyota Fortuner 3.0,Toyota,2015,375000,75000,Diesel
 4536,Mahindra XUV500 W6,Mahindra,2013,375000,75000,Diesel
 4537,Tata Tigor Revotron,Tata,2019,375000,75000,Diesel
@@ -4660,7 +4660,7 @@
 4658,Tata Venture EX,Tata,2013,349999,10000,Diesel
 4659,Maruti Suzuki Swift,Maruti,2014,349999,14000,Petrol
 4660,Skoda Octavia Classic,Skoda,2006,349999,30000,Diesel
-4661,Maruti Suzuki Omni,Maruti,2012,349999,30000,LPG
+4661,Maruti Suzuki Omni,Maruti,2012,349999,30000,Diesel
 4662,Chevrolet Beat Diesel,Chevrolet,2011,349999,35000,Diesel
 4663,Tata Sumo Gold,Tata,2012,349999,40000,Diesel
 4664,Hyundai Verna 1.6,Hyundai,2018,349999,44000,Diesel
@@ -5347,7 +5347,7 @@
 5345,Maruti Suzuki Dzire,Maruti,2011,225000,40000,Diesel
 5346,Tata Sumo Gold,Tata,2011,225000,40000,Diesel
 5347,Toyota Corolla Altis,Toyota,2011,225000,40000,Petrol
-5348,Maruti Suzuki Eeco,Maruti,2011,225000,45000,LPG
+5348,Maruti Suzuki Eeco,Maruti,2011,225000,45000,Diesel
 5349,Toyota Fortuner 3.0,Toyota,2011,225000,46000,Diesel
 5350,Mahindra XUV500 W6,Mahindra,2011,225000,48660,Diesel
 5351,Tata Tigor Revotron,Tata,2011,225000,55000,Diesel
@@ -5474,7 +5474,7 @@
 5472,Tata Venture EX,Tata,2012,210000,50000,Diesel
 5473,Maruti Suzuki Swift,Maruti,2012,210000,56758,Petrol
 5474,Skoda Octavia Classic,Skoda,2012,210000,58000,Diesel
-5475,Maruti Suzuki Omni,Maruti,2012,210000,59000,LPG
+5475,Maruti Suzuki Omni,Maruti,2012,210000,59000,Diesel
 5476,Chevrolet Beat Diesel,Chevrolet,2012,210000,59000,Diesel
 5477,Tata Sumo Gold,Tata,2012,210000,60000,Diesel
 5478,Hyundai Verna 1.6,Hyundai,2012,210000,60000,Diesel
@@ -6163,7 +6163,7 @@
 6161,Maruti Suzuki Dzire,Maruti,2015,100000,40000,Diesel
 6162,Tata Sumo Gold,Tata,2015,100000,41000,Diesel
 6163,Toyota Corolla Altis,Toyota,2015,100000,45000,Petrol
-6164,Maruti Suzuki Eeco,Maruti,2015,100000,45000,LPG
+6164,Maruti Suzuki Eeco,Maruti,2015,100000,45000,Diesel
 6165,Toyota Fortuner 3.0,Toyota,2015,100000,45863,Diesel
 6166,Mahindra XUV500 W6,Mahindra,2015,100000,50000,Diesel
 6167,Tata Tigor Revotron,Tata,2015,100000,55000,Diesel
@@ -6290,7 +6290,7 @@
 6288,Tata Venture EX,Tata,2016,85000,35000,Diesel
 6289,Maruti Suzuki Swift,Maruti,2016,85000,38600,Petrol
 6290,Skoda Octavia Classic,Skoda,2016,85000,39000,Diesel
-6291,Maruti Suzuki Omni,Maruti,2016,85000,39000,LPG
+6291,Maruti Suzuki Omni,Maruti,2016,85000,39000,Diesel
 6292,Chevrolet Beat Diesel,Chevrolet,2016,85000,41000,Diesel
 6293,Tata Sumo Gold,Tata,2016,85000,41000,Diesel
 6294,Hyundai Verna 1.6,Hyundai,2016,85000,42000,Diesel
